@@ -80,10 +80,6 @@ input {
     padding-left: 20px;
 }
 
-/* .sabias{
-    padding-top: 2px;
-} */
-
 #pokebola img{
     height: 100px;
 }
@@ -114,5 +110,13 @@ input {
         float: none;
         margin-bottom: 20px; */
     }
+
+    input{
+        margin: 120px 0 0 5px;
+    }
+
+    .sabias{
+    padding-top: 40px;
+}
 
 }
